@@ -33,8 +33,10 @@ const users = [
   {
     email: 'duaaarush07@gmail.com',
     name: 'Aarush',
-    role: ['FacultyAdvisor'],
+    role: ['FacultyAdvisor','CourseInstructor'],
   },
+  
+  
 ];
 
 // Function to seed the database
