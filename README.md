@@ -2,6 +2,11 @@
 
 A MERN stack web app for student course enrollment, featuring secure Gmail OTP login and a multi-level approval workflow.
 
+# Contributors :
+- Aarush Dua
+- Arnav Bansal
+
+
 ## 🚀 Features
 
 - Student enrollment requests
